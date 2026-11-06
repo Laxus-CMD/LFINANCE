@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "css.lint.unknownAtRules": "ignore",
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/dist": true
+  }
+}
